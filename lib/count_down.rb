@@ -1,7 +1,7 @@
 # Write your code here
-int countdown = log
+int countdown = 10
 
 while(countdown != 0) do
   puts countdown
-  countdown -= log
+  countdown -= 1
 end
